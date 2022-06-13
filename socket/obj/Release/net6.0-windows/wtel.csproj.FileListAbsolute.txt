@@ -1,0 +1,17 @@
+E:\codes\projects\wtel\bin\Release\net6.0-windows\wtel.exe
+E:\codes\projects\wtel\bin\Release\net6.0-windows\wtel.deps.json
+E:\codes\projects\wtel\bin\Release\net6.0-windows\wtel.runtimeconfig.json
+E:\codes\projects\wtel\bin\Release\net6.0-windows\wtel.dll
+E:\codes\projects\wtel\bin\Release\net6.0-windows\wtel.pdb
+E:\codes\projects\wtel\obj\Release\net6.0-windows\wtel.csproj.AssemblyReference.cache
+E:\codes\projects\wtel\obj\Release\net6.0-windows\wtel.Form1.resources
+E:\codes\projects\wtel\obj\Release\net6.0-windows\wtel.csproj.GenerateResource.cache
+E:\codes\projects\wtel\obj\Release\net6.0-windows\wtel.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\projects\wtel\obj\Release\net6.0-windows\wtel.AssemblyInfoInputs.cache
+E:\codes\projects\wtel\obj\Release\net6.0-windows\wtel.AssemblyInfo.cs
+E:\codes\projects\wtel\obj\Release\net6.0-windows\wtel.csproj.CoreCompileInputs.cache
+E:\codes\projects\wtel\obj\Release\net6.0-windows\wtel.dll
+E:\codes\projects\wtel\obj\Release\net6.0-windows\refint\wtel.dll
+E:\codes\projects\wtel\obj\Release\net6.0-windows\wtel.pdb
+E:\codes\projects\wtel\obj\Release\net6.0-windows\wtel.genruntimeconfig.cache
+E:\codes\projects\wtel\obj\Release\net6.0-windows\ref\wtel.dll
