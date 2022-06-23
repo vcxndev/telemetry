@@ -1,0 +1,13 @@
+E:\codes\projects\telemetry\bin\Release\telemetry.exe.config
+E:\codes\projects\telemetry\bin\Release\telemetry.exe
+E:\codes\projects\telemetry\bin\Release\telemetry.pdb
+E:\codes\projects\telemetry\bin\Release\telemetry.xml
+E:\codes\projects\telemetry\obj\Release\telemetry.vbproj.AssemblyReference.cache
+E:\codes\projects\telemetry\obj\Release\telemetry.vbproj.SuggestedBindingRedirects.cache
+E:\codes\projects\telemetry\obj\Release\telemetry.telemetry.resources
+E:\codes\projects\telemetry\obj\Release\telemetry.Resources.resources
+E:\codes\projects\telemetry\obj\Release\telemetry.vbproj.GenerateResource.cache
+E:\codes\projects\telemetry\obj\Release\telemetry.vbproj.CoreCompileInputs.cache
+E:\codes\projects\telemetry\obj\Release\telemetry.exe
+E:\codes\projects\telemetry\obj\Release\telemetry.xml
+E:\codes\projects\telemetry\obj\Release\telemetry.pdb
