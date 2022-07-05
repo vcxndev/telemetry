@@ -1,0 +1,11 @@
+E:\codes\projects\ftel\obj\Debug\ftel.csproj.AssemblyReference.cache
+E:\codes\projects\ftel\obj\Debug\ftel.csproj.SuggestedBindingRedirects.cache
+E:\codes\projects\ftel\obj\Debug\ftel.Properties.Resources.resources
+E:\codes\projects\ftel\obj\Debug\ftel.csproj.GenerateResource.cache
+E:\codes\projects\ftel\obj\Debug\ftel.csproj.CoreCompileInputs.cache
+E:\codes\projects\ftel\bin\Debug\ftel.exe.config
+E:\codes\projects\ftel\bin\Debug\ftel.exe
+E:\codes\projects\ftel\bin\Debug\ftel.pdb
+E:\codes\projects\ftel\obj\Debug\ftel.exe
+E:\codes\projects\ftel\obj\Debug\ftel.pdb
+E:\codes\projects\ftel\obj\Debug\ftel.ftel.resources
